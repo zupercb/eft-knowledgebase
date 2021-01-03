@@ -10,6 +10,7 @@ JET/CF KNOWLEDGEBASE
 7. BOT WAVE ALLOCATION
 8. MAP LOOT
 9. ACTIVATE INSURANCE IN 1.0.3
+10. PMC WEIGHT
 
 ---
 
@@ -68,4 +69,26 @@ JET/CF KNOWLEDGEBASE
 9. ACTIVATE INSURANCE IN 1.0.3
 	/config/server.json
 		LOOTPATCH = ENABLED
+		
+10. PMC WEIGHT CONTROL 
+	\server\db\cacheBase\globals.json
+	 "WalkOverweightLimits": {
+                "x": 75,
+                "y": 90,
+                "z": 0
+            },
+            "BaseOverweightLimits": {
+                "x": 75,
+                "y": 90,
+                "z": 0
+            },
+            "SprintOverweightLimits": {
+                "x": 75,
+                "y": 90,
+                "z": 0
+            },
+            "WalkSpeedOverweightLimits": {
+                "x": 75,
+                "y": 90,
+                "z": 0
 
