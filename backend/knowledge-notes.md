@@ -11,6 +11,10 @@ JET/CF KNOWLEDGEBASE
 8. MAP LOOT
 9. ACTIVATE INSURANCE IN 1.0.3
 10. PMC WEIGHT
+11. SKILLS
+
+LEGEND::
+"?" = NOT SURE
 
 ---
 
@@ -18,20 +22,26 @@ JET/CF KNOWLEDGEBASE
 	\server\db\weather\
 
 2. PMC GAMEPLAY, 
-	"spawnChance": 85,
-	"usecChance": 50
+
+		"spawnChance": 85,
+		"usecChance": 50
+	
 	changed to 0
 	\server\user\configs\gameplay.json
 	** PROBABILITY RAISED BUT I CANT FIGURE OUT HOW MANY ACTUALLY SPAWNS 
 	
 3. INSURANCE RETURN SPEED
-	min_return_hour: 24 to 5 
+
+		min_return_hour: 24 to 5 
+
 	\"server"\db\cacheBase\traders\5c0647fdd443bc2504c2d371\base.json
 	 ** NOT CURRENTLY WORKING ON 1.0.3
 	
 4. FLEA MARKET PRICES 
-	ragfairMultiplier: 1.5 to 15.5
-	\server\user\configs\gameplay.json
+		
+		ragfairMultiplier: 1.5 to 15.5
+		\server\user\configs\gameplay.json
+	
 	** JACKED UP THE PRICES
 	
 5. AI DIFFICULTY
@@ -43,10 +53,12 @@ JET/CF KNOWLEDGEBASE
 				
 7. MIN BOT ALLOCATION 
 	\server\db\cacheBase
-	"WAVE_COEF_LOW": 1.2, @ GLOBALS.JSON
+	
+		"WAVE_COEF_LOW": 1.2, @ GLOBALS.JSON
 
 8. MAP LOOT
 	\server\user\configs\gameplay.json
+		
 		"locationloot": {
 		"allowLootOverlay" : false,
 		"bigmap": 1000,
@@ -72,23 +84,40 @@ JET/CF KNOWLEDGEBASE
 		
 10. PMC WEIGHT CONTROL 
 	\server\db\cacheBase\globals.json
-	 "WalkOverweightLimits": {
-                "x": 75,
-                "y": 90,
-                "z": 0
-            },
-            "BaseOverweightLimits": {
-                "x": 75,
-                "y": 90,
-                "z": 0
-            },
-            "SprintOverweightLimits": {
-                "x": 75,
-                "y": 90,
-                "z": 0
-            },
-            "WalkSpeedOverweightLimits": {
-                "x": 75,
-                "y": 90,
-                "z": 0
+	 
+		 "WalkOverweightLimits": {
+			"x": 75,
+			"y": 90,
+			"z": 0
+		    },
+		    "BaseOverweightLimits": {
+			"x": 75,
+			"y": 90,
+			"z": 0
+		    },
+		    "SprintOverweightLimits": {
+			"x": 75,
+			"y": 90,
+			"z": 0
+		    },
+		    "WalkSpeedOverweightLimits": {
+			"x": 75,
+			"y": 90,
+			"z": 0
+		
+11. SKILL PROGRESSION
+	/server/db/globals.json
+	5100 IS ELITE, 100 PER LEVEL
+	"Progress": 0, to "Progress": 5100, for maxed out skills with elite.
+		change mastery skills to 3000 for 3 stars.
+			
+			"SkillProgressRate": 0.6, ?
+            		"WeaponSkillProgressRate": 1, ?
+			
+			"SkillMinEffectiveness": 0.0001,
+            		"SkillFatiguePerPoint": 0.5,
+            		"SkillFreshEffectiveness": 1.3,
+            		"SkillFreshPoints": 1,
+            		"SkillPointsBeforeFatigue": 1,
+            		"SkillFatigueReset": 300,
 
