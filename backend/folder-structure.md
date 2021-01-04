@@ -1,6 +1,7 @@
 Folder Structure of JustEmuTarkov Server
 
 db
+  
       assort -> contains traders assortiment as barter_scheme, items for sell, loyal_level_items, questassort
       bots -> contains bots and all of its data such as difficulty settings, health, inventory data, appearance, experience, names
       cacheBase -> contains a base files which shouldnt be changed in order to keep a consistancy(i will advice to use tampermodload to edit those in memory of server)
