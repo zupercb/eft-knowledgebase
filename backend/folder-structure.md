@@ -15,16 +15,19 @@ db
       templates -> contains categories/templates for items and quests
       weather -> weather files as json
       version -> this file should store database compatiblility version of the game
-      res -> contains static data such as fonts, css(style files), images, bundles
-      src -> contains scripts avaliable for users to dig into
+      
+res -> contains static data such as fonts, css(style files), images, bundles
+        
+src -> contains scripts avaliable for users to dig into
+
       callbacks ->
-      cache -> do cache of specific things in server
-      load -> load classes initializators (literally nothing to change here)
-      receive -> How to respond on "string" received data (external comunication)
-      respond -> How to respond in "string" responded data (internal comunication)
+        cache -> do cache of specific things in server
+        load -> load classes initializators (literally nothing to change here)
+        receive -> How to respond on "string" received data (external comunication)
+        respond -> How to respond in "string" responded data (internal comunication)
       classes -> contains main classes of functions whic hsuply data if something is broken its propably here
       response -> folder itself contains static responses like /client/game/config whic is saved as client.game.config.js
-      dynamic -> contains all dynamicly changing responses
+        dynamic -> contains all dynamicly changing responses
 
 user
 
