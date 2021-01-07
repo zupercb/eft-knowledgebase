@@ -46,6 +46,10 @@ LEGEND::
 	
 5. AI DIFFICULTY
 	PUT BOT EXPERIENCE VALUE TO 1100
+	
+		NOTABLES FILES TO CHECK OUT
+		\Server\src\classes\bots.json
+		\Server\src\response\dynamic\singleplayer.settings.bot.difficulty
 		
 6. DOGTAG OVERHAUL
 	names.json
