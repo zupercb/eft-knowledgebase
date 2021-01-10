@@ -53,9 +53,11 @@ WEAPON MODS::
 	ZPR IMPORTERS
 		9KT PTR 603
 			PICATANNY RAIL
-
 		32 KFR PTR 200
 		32P PDWR PTR 203
+		Compact Model 799 Mini Mauser bolt-action rifle
+		Ruger Mini Thirty
+		SG 553 R 
 	
   
 QUALITY OF LIFE::
