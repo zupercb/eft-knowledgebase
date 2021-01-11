@@ -124,4 +124,8 @@ LEGEND::
             		"SkillFreshPoints": 1,
             		"SkillPointsBeforeFatigue": 1,
             		"SkillFatigueReset": 300,
+			
+			what file though??
+			enableskillMultiplier: false
+			skillmultiplier: false
 
