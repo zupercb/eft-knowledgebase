@@ -1,51 +1,26 @@
 
-
-SA-58
-	> META
-		AG FAL
-		SA-58 SPR Stock
-		Extreme Duty
-		21" SA-58 7.62x51
-		Red Brake
-		CASV FAL Handguard
+HK416 
 
 	> BUDGET
-		SA-58
-		UNIVERSAL M-LOK HANDGUARD
-		4.1 INCH M-LOL RAIL
-		ZENIT RK-0
-			SAW STYLE SA-58 GRIP
-			SA-58 BRS STOCK9
-	
-MP7A2 BUILD:: 4.6x30
-	Regular stock for HK MP7A1
-	HK A1 4.6x30 Flash hider for MP7
-	B&T Rotex 2 4.6x30 silencer
-	Magpul MBUS Gen.2 Rearsight
-	Magpul MBUS Gen.2 Frontsight
-
-
-MPX LOWEST RECOIL BUILD:: AP 6.3 // LONG VER
-	PMM "ULSS" foldable MCX/MPX stock
-	HK Ergo PSG-1 style pistol grip for AR-15 based systems
-	Midwest 14 inch M-LOK foregrip for MPX
-	Geissele "SCH" charging handle for MPX
-	14" 9x19 barrel for MPX
-	Magpul MBUS Gen.2 Frontsight
-	Magpul MBUS Gen.2 Rearsight
-	Magpul M-LOK 4.1 inch guide
-	RK-1
-	SilencerCo Osprey 9 9x19mm sound suppressor
+		16.5 BARRELL
+		PWS CQB 5.56x45 COMP
+		RK-0 FOREGRIP
+		EKP-I8 REFLEX
+		MFT BUS STOCK
+		HERA ARMS HG-15
+	> META
+		20' BARREL
+		WAVE MUZZLE BRAKE
+		HK MRS 14" KEYMOD
+		6" KEYMOD RAIL
+		HERA ARMS CQR FOREGRIP / RK-1
+		HK EI STOCK
+		HK ERGO PSG / HERA ARMS HG-15
+		MBUS IRON SIGHTS
+		RAPTOR CHARGING HANDLE
 		
-		> BUDGET
-		LVL PEACEKEEPER ITEMS GOOD ENOUGH
-
-SVDS HIGH TIER
-	SAG MK1 Freefloat Chassis for SVD
-	SVDS CUSTOM DC
-	RK-3
+AKM BUILDS MID TIER:: GOAL REC 72, ERGO 55
 	
-MID TIER:: GOAL REC 72, ERGO 55
 	RK-3	
 	Fab Defense UAS for AK	
 	VS-24 Handguard with a VS-33c gas block combo for AK	
@@ -72,6 +47,7 @@ MID TIER:: GOAL REC 72, ERGO 55
 			DTK1
 
 LEET TIER:: GOAL RECOIL 56, ERGO 60
+	
 	RK-3	
 	Zhukov-S	
 	Handguard with a gas block combo by TROY Industries for AK	
@@ -110,27 +86,58 @@ LEET TIER:: GOAL RECOIL 56, ERGO 60
 			AKMP Rear
 			RP-1
 
-HK416 
-	> BUDGET
-		16.5 BARRELL
-		PWS CQB 5.56x45 COMP
-		RK-0 FOREGRIP
-		EKP-I8 REFLEX
-		MFT BUS STOCK
-		HERA ARMS HG-15
-	> META
-		20' BARREL
-		WAVE MUZZLE BRAKE
-		HK MRS 14" KEYMOD
-		6" KEYMOD RAIL
-		HERA ARMS CQR FOREGRIP / RK-1
-		HK EI STOCK
-		HK ERGO PSG / HERA ARMS HG-15
-		MBUS IRON SIGHTS
-		RAPTOR CHARGING HANDLE
 
+SA-58
+	
+	> META
+		AG FAL
+		SA-58 SPR Stock
+		Extreme Duty
+		21" SA-58 7.62x51
+		Red Brake
+		CASV FAL Handguard
+
+	> BUDGET
+		SA-58
+		UNIVERSAL M-LOK HANDGUARD
+		4.1 INCH M-LOL RAIL
+		ZENIT RK-0
+			SAW STYLE SA-58 GRIP
+			SA-58 BRS STOCK9
+	
+MP7A2 BUILD:: 4.6x30
+	
+	Regular stock for HK MP7A1
+	HK A1 4.6x30 Flash hider for MP7
+	B&T Rotex 2 4.6x30 silencer
+	Magpul MBUS Gen.2 Rearsight
+	Magpul MBUS Gen.2 Frontsight
+
+
+MPX LOWEST RECOIL BUILD:: AP 6.3 // LONG VER
+	
+	PMM "ULSS" foldable MCX/MPX stock
+	HK Ergo PSG-1 style pistol grip for AR-15 based systems
+	Midwest 14 inch M-LOK foregrip for MPX
+	Geissele "SCH" charging handle for MPX
+	14" 9x19 barrel for MPX
+	Magpul MBUS Gen.2 Frontsight
+	Magpul MBUS Gen.2 Rearsight
+	Magpul M-LOK 4.1 inch guide
+	RK-1
+	SilencerCo Osprey 9 9x19mm sound suppressor
+		
+		> BUDGET
+		LVL PEACEKEEPER ITEMS GOOD ENOUGH
+
+SVDS HIGH TIER
+	
+	SAG MK1 Freefloat Chassis for SVD
+	SVDS CUSTOM DC
+	RK-3
 
 MP153 SHOTTY BUILD
+	
 	MP-153x8
 	610mm MP-153 12ga
 	RTC 12ga
@@ -141,6 +148,7 @@ MP153 SHOTTY BUILD
 	
 			
 M1A
+	
 	> BUDGET
 		M1A
 		22" BARREL FOR M1A
