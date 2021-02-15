@@ -8,7 +8,6 @@ what the difficulty setting does::
 	horde= you have the last bottle of vodka and all of russia is coming after you
 	
 
-=====
 escape from tarkov | hardcore game idea::
 
 	lower loot availability
