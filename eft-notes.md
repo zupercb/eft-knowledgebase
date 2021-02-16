@@ -28,5 +28,20 @@ escape from tarkov | hardcore game idea::
 	raiders or bosses
 		should be on high item lvl areas
 		
+ai bot ideas::
 
+	scavs builds
+		aggro
+			spray n pray
+		group up
+		run away
+		sneaky
+	pmcs [this should be my first priority]
+		ratty
+			sneaky
+				but always moving
+			run away
+		chaddy
+			spray
+			grenadier
 	
