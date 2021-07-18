@@ -110,7 +110,7 @@ LEGEND::
 			"z": 0
 		
 11. SKILL PROGRESSION
-	/server/db/globals.json
+	/server/db/cacheBase/globals.json
 	5100 IS ELITE, 100 PER LEVEL
 	"Progress": 0, to "Progress": 5100, for maxed out skills with elite.
 		change mastery skills to 3000 for 3 stars.
